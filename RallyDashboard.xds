@@ -1,0 +1,48 @@
+{
+    "name": "RallyDashboard",
+    "settings": {
+        "spacesToIndent": 4,
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "urlPrefix": "http://localhost:8888/RallyDashboard",
+        "exportPath": "",
+        "buildShouldOverwriteIndex": true
+    },
+    "xdsVersion": "2.2.2",
+    "xdsBuild": 991,
+    "schemaVersion": 1,
+    "upgradeVersion": 210000000503,
+    "framework": "ext42",
+    "topInstanceFileMap": {
+        "223b703a-2007-411d-a8a9-5b858a3cc375": {
+            "paths": [
+                "metadata/resource/Library"
+            ],
+            "className": "Library"
+        },
+        "1605fd51-8758-498b-a55f-7dc526f08b9f": {
+            "paths": [
+                "metadata/view/MyGridPanel",
+                "app/view/override/MyGridPanel.js",
+                "app/view/MyGridPanel.js",
+                "app/view/Viewport.js"
+            ],
+            "className": "MyGridPanel"
+        }
+    },
+    "viewOrderMap": {
+        "view": [
+            "1605fd51-8758-498b-a55f-7dc526f08b9f"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "223b703a-2007-411d-a8a9-5b858a3cc375"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
