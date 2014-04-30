@@ -36,7 +36,8 @@
             "codeClass": null,
             "userConfig": {
                 "dataIndex": "number",
-                "text": "Number"
+                "text": "Number",
+                "format": "0,000"
             },
             "designerId": "a6785843-513c-42a7-8ff3-bde67e75287a"
         },

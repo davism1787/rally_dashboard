@@ -33,7 +33,8 @@ Ext.define('MyApp.view.MyGridPanel', {
                 {
                     xtype: 'numbercolumn',
                     dataIndex: 'number',
-                    text: 'Number'
+                    text: 'Number',
+                    format: '0,000'
                 },
                 {
                     xtype: 'datecolumn',

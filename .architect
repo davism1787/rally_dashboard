@@ -2,7 +2,7 @@
     "expandedState": {
         "data": true,
         "model": true,
-        "component": false,
+        "component": true,
         "controller": true,
         "resource": true,
         "1605fd51-8758-498b-a55f-7dc526f08b9f": {
@@ -39,8 +39,8 @@
         "topInstance": "1605fd51-8758-498b-a55f-7dc526f08b9f"
     },
     "inspectorState": {
-        "topInstance": "223b703a-2007-411d-a8a9-5b858a3cc375",
-        "selectedInstance": "223b703a-2007-411d-a8a9-5b858a3cc375"
+        "topInstance": "1605fd51-8758-498b-a55f-7dc526f08b9f",
+        "selectedInstance": "a6785843-513c-42a7-8ff3-bde67e75287a"
     },
     "codeState": {
         "topInstance": null
